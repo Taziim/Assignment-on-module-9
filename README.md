@@ -1,6 +1,6 @@
 # Install Docker on an AWS EC2 instance.
 ## Screenshots
-<img src="./assets/DockerInstallation.png" alt="alt text" width="200">
+<img src="./assets/DockerInstallation.png" alt="alt text" width="100%">
 
 ## Code 
 
@@ -43,7 +43,7 @@ newgrp docker
 docker ps
 
 ## Screenshots
-<img src="./assets/DockerInstallation.png" alt="alt text" width="150">
+<img src="./assets/DockerInstallation.png" alt="alt text" width="100%">
 
 # Run the hello-world Docker image and verify successful execution.
-<img src="./assets/HelloWorld.png.png" alt="alt text" width="150">
+<img src="./assets/HelloWorld.png" alt="alt text" width="100%">
